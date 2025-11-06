@@ -10,14 +10,6 @@ Este proyecto fue creado como una demostración de: - Arquitectura
 moderna de Android - Manejo de estado en Compose - Lógica de juego en
 tiempo real
 
-> **Recomendación:** graba tu pantalla mientras juegas una ronda,
-> conviértelo en GIF y súbelo al repositorio. Luego reemplaza esta línea
-> por la imagen real del gameplay.
-
-``` md
-![Gameplay GIF](ruta/a/tu/gameplay.gif)
-```
-
 ------------------------------------------------------------------------
 
 ## ✨ Características Principales
