@@ -79,7 +79,7 @@ Android
 Clonar repo:
 
 ``` bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Alejandro261102/JUEGO-TRON.git
 ```
 
 Luego: 1. Abrir con Android Studio 2. Sincronizar Gradle 3. Ejecutar
